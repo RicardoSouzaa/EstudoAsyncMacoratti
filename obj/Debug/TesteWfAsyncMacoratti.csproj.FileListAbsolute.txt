@@ -1,0 +1,10 @@
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\bin\Debug\TesteWfAsyncMacoratti.exe.config
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\bin\Debug\TesteWfAsyncMacoratti.exe
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\bin\Debug\TesteWfAsyncMacoratti.pdb
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.csproj.AssemblyReference.cache
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.Form1.resources
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.Properties.Resources.resources
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.csproj.GenerateResource.cache
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.csproj.CoreCompileInputs.cache
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.exe
+D:\Dev\Ricardo\Testes\TesteWfAsyncMacoratti\obj\Debug\TesteWfAsyncMacoratti.pdb
